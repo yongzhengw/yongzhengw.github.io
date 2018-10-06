@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
+    <title>Jim - Yet Another Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <description>Recent content on Jim - Yet Another Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Oct 2018 16:13:22 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 18:11:10 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Org-mode Hugo</title>
+      <title>Org-mode Hugo GitHub Pages 写博客</title>
       <link>http://localhost:1313/post/org-mode-blog/</link>
-      <pubDate>Sat, 06 Oct 2018 16:13:22 +0800</pubDate>
+      <pubDate>Sat, 06 Oct 2018 18:11:10 +0800</pubDate>
       
       <guid>http://localhost:1313/post/org-mode-blog/</guid>
-      <description>1. 安装 Hugo 参考: Quick Start 切换主题 clone 主题到 themes 下 修改 `config.toml`, `theme = &amp;ldquo;ananke&amp;rdquo;` 即可 参考: Step 3: Add a Theme git submodule add https://github.com/olOwOlo/hugo-theme-even themes/even Hugo -&amp;gt; GitHub Page 最终目录结构 org.wenyongzheng.com/ #全部文件 yongzhengw.github.io #Hugo project content/posts(ox-hugo export 放置生成的 markdown 文件，</description>
-    </item>
-    
-    <item>
-      <title>My</title>
-      <link>http://localhost:1313/post/my/</link>
-      <pubDate>Wed, 03 Oct 2018 12:56:47 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/my/</guid>
-      <description>bbbbb</description>
+      <description>1. 安装 Hugo 参考: Quick Start 1.1 切换主题 clone 主题到 themes 下 修改 `config.toml`, `theme = &amp;ldquo;ananke&amp;rdquo;` 即可 参考: Step 3: Add a Theme git submodule add https://github.com/olOwOlo/hugo-theme-even themes/even 2. 安装 ox-hugo 参考: Installation 安装完成后，执行 C-c C-e 没看到 ox-hugo 选项，需在配置</description>
     </item>
     
   </channel>
