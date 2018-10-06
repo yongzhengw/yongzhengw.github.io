@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jim - Yet Another Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yongzhengw.github.io/</link>
     <description>Recent content on Jim - Yet Another Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Oct 2018 04:53:16 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongzhengw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Org-mode Hugo GitHub Pages 写博客</title>
-      <link>http://localhost:1313/post/org-mode-blog/</link>
+      <link>https://yongzhengw.github.io/post/org-mode-blog/</link>
       <pubDate>Sun, 07 Oct 2018 04:53:16 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/org-mode-blog/</guid>
+      <guid>https://yongzhengw.github.io/post/org-mode-blog/</guid>
       <description>1. 安装 Hugo 参考: Quick Start 1.1 切换主题 clone 主题到 themes 下 修改 `config.toml`, `theme = &amp;ldquo;ananke&amp;rdquo;` 即可 参考: Step 3: Add a Theme git submodule add https://github.com/olOwOlo/hugo-theme-even themes/even 2. 安装 ox-hugo 参考: Installation 安装完成后，执行 C-c C-e 没看到 ox-hugo 选项，需在配置</description>
     </item>
     
