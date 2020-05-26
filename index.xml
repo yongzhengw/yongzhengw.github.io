@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My personal blog</title>
+    <title>自我实验室-村君</title>
     <link>https://yongzhengw.github.io/</link>
-    <description>Recent content on My personal blog</description>
+    <description>Recent content on 自我实验室-村君</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-Hans</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Tue, 26 May 2020 12:09:27 +0800</lastBuildDate>
     
