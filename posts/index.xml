@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 26 May 2020 12:09:27 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yongzhengw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ce-shi-fang-wen</title>
+      <link>https://yongzhengw.github.io/posts/ce-shi-fang-wen/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yongzhengw.github.io/posts/ce-shi-fang-wen/</guid>
+      <description>测试访问 objk
+发布的 id 15905711569221 cat_article rid=15905711569221 找到全部文章 移动文章即可</description>
+    </item>
+    
+    <item>
+      <title>hugo-da-jian-jiao-cheng</title>
+      <link>https://yongzhengw.github.io/posts/hugo-da-jian-jiao-cheng/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yongzhengw.github.io/posts/hugo-da-jian-jiao-cheng/</guid>
+      <description>hugo 搭建教程  quick start 部署到 Github Page  </description>
+    </item>
     
     <item>
       <title>Four</title>
