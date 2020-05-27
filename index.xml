@@ -31,32 +31,5 @@
 发布的 id 15905711569221 cat_article rid=15905711569221 找到全部文章 移动文章即可</description>
     </item>
     
-    <item>
-      <title>Four</title>
-      <link>https://yongzhengw.github.io/posts/four/</link>
-      <pubDate>Tue, 26 May 2020 12:09:27 +0800</pubDate>
-      
-      <guid>https://yongzhengw.github.io/posts/four/</guid>
-      <description>会发送的文章 崩了</description>
-    </item>
-    
-    <item>
-      <title>My Sec Post</title>
-      <link>https://yongzhengw.github.io/posts/my-sec-post/</link>
-      <pubDate>Tue, 26 May 2020 11:37:10 +0800</pubDate>
-      
-      <guid>https://yongzhengw.github.io/posts/my-sec-post/</guid>
-      <description>something wrong??</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://yongzhengw.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 26 May 2020 11:15:08 +0800</pubDate>
-      
-      <guid>https://yongzhengw.github.io/posts/my-first-post/</guid>
-      <description>check this out, man.</description>
-    </item>
-    
   </channel>
 </rss>
